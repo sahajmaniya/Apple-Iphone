@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         'scrollbar-bg': '#f1f1f1',
-        'scrollbar-thumb': '#888888 ',
+        'scrollbar-thumb': '#888888',
         'scrollbar-thumb-hover': '#555',
         blue: "#2997FF",
         gray: {
